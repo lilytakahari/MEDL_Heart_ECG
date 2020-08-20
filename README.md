@@ -7,6 +7,7 @@ Thank you teammates Daniel Hosseinian, Eric Tang, and Megan Tan; it was ridiculo
 Autodesk EAGLE files: 
 
 `pcb_design.brd`: PCB schematic
+
 `circuit_design.sch`: ECG circuit schematic
 
 Processing files:
